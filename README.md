@@ -25,3 +25,4 @@ This repository contains a simple web application with two main components:
   ```env
     VITE_API_URL=http://api:8000
   ```
+Triggering CI/CD
